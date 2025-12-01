@@ -44,13 +44,3 @@ src/main/java/com/bfhl/webhookapp/
 └── service/
     └── WebhookService.java          # Main service with startup logic
 ```
-
-## Downloadable JAR Link
-After building, upload the JAR file from `target/webhook-app.jar` to your GitHub repository and provide the raw link:
-```
-https://github.com/your-username/your-repo/raw/main/target/webhook-app.jar
-```
-
-## Submission
-- GitHub Repository: https://github.com/your-username/your-repo.git
-- JAR Download Link: https://github.com/your-username/your-repo/raw/main/target/webhook-app.jar
