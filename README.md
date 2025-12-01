@@ -9,11 +9,6 @@ This Spring Boot application automatically generates a webhook on startup, solve
 - Maven 3.6+
 - Git
 
-### Configuration
-1. Update your details in `WebhookService.java`:
-   - Replace `name`, `regNo`, and `email` with your actual details
-   - Add your SQL query in the `getSqlQuery()` method
-
 ### Build the Application
 ```bash
 mvn clean package
