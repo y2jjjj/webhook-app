@@ -44,3 +44,10 @@ src/main/java/com/bfhl/webhookapp/
 └── service/
     └── WebhookService.java          # Main service with startup logic
 ```
+Overview
+This Spring Boot application automatically generates a webhook on startup, solves a SQL problem (Question 2 - Even Registration Number), and submits the solution.
+Quick Links
+
+GitHub Repository: https://github.com/y2jjjj/webhook-app.git
+Download JAR: https://github.com/y2jjjj/webhook-app/raw/main/target/webhook-app.jar
+```
